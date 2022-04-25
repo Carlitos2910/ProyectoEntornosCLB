@@ -9,8 +9,8 @@ public class Alta_Usuario2 {
 	
 	/**
 	 * Recoge los valores de los usuarios y le crea uno.
-	 * @param args
-	 * @throws Exception
+	 * @param args Parametros de la funcion.
+	 * @throws Exception Lanza una excepción cuando ocurra un error en el programa.
 	 */
 	public static void main(String[] args) throws Exception {
 
